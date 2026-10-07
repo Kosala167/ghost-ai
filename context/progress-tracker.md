@@ -8,15 +8,17 @@ Update this file whenever the current phase, active feature, or implementation s
 
 ## Current Goal
 
-- Implement Design System and UI primitives using shadcn/ui
+- Implement Editor base UI components (navbar, sidebar, dialog pattern)
 
 ## Completed
 
 - Clean up Next.js boilerplate
+- Feature Spec 01: Design System (shadcn/ui setup and components)
+- Feature Spec 02: Editor UI (navbar, sidebar, dialog pattern)
 
 ## In Progress
 
-- Feature Spec 01: Design System (shadcn/ui setup and components)
+- Waiting for next feature spec
 
 ## Next Up
 
